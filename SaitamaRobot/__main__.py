@@ -53,7 +53,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`Hey There!` [🚶](https://telegra.ph/file/8fdbe7e96fd6476e3ea99.jpg) `My Name Is` *Itachi Uchiha*
+`Hey There!` [🚶](https://telegra.ph/file/8fdbe7e96fd6476e3ea99.jpg) `My Name Is`  *Itachi Uchiha*
 `I am an Anime Themed group management bot.
 Managed by XForce for Your Telegram Group , I specialize in managing anime and similar themed groups.
 You can find my list of available commands with! Hit` *🔐Commands*   

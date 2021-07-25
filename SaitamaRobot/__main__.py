@@ -53,9 +53,9 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`Hey There!` [🚶](https://telegra.ph/file/2be369d07c2f1ce6f2ff6.jpg) `My Name Is` *Ah I Don't Have To Tell This You Know Who I Am*
+`Hey There!` [🚶](https://telegra.ph/file/8fdbe7e96fd6476e3ea99.jpg) `My Name Is` *Itachi Uchiha*
 `I am an Anime Themed group management bot.
-Managed by Izumi for Your Telegram Group , I specialize in managing anime and similar themed groups.
+Managed by XForce for Your Telegram Group , I specialize in managing anime and similar themed groups.
 You can find my list of available commands with! Hit` *🔐Commands*   
 """
 
@@ -93,7 +93,7 @@ InlineKeyboardButton(
 
 
 HELP_STRINGS = """
-`Hey there! I'm, Lol I Already` [Said]("https://telegra.ph/file/5f5b57c7a37c3cb9853f0.jpg") 
+`Hey there! My Name Is`[Itachi]("https://telegra.ph/file/5f5b57c7a37c3cb9853f0.jpg") 
 I'm a Ninja, I Will help admins manage their groups with Some Powerful Features! `Have a look at the following for an idea of some of the things I can help you with.`"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
@@ -377,7 +377,7 @@ def Source_about_callback(update, context):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..👩‍💼 I'm *Emilia*
+            text=""" Hi.. I'm *Emilia*
                  \nHere is the [Our Anime Group](https://t.me/animehubby) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,

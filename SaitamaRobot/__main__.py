@@ -93,7 +93,7 @@ InlineKeyboardButton(
 
 
 HELP_STRINGS = """
-`Hey there! My Name Is`[Itachi]("https://telegra.ph/file/5f5b57c7a37c3cb9853f0.jpg") 
+`Hey there! My Name Is` [Itachi]("https://telegra.ph/file/5f5b57c7a37c3cb9853f0.jpg") 
 I'm a Ninja, I Will help admins manage their groups with Some Powerful Features! `Have a look at the following for an idea of some of the things I can help you with.`"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!

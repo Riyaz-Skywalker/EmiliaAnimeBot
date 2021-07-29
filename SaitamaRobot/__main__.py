@@ -53,7 +53,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`Hey There!` [🚶](https://telegra.ph/file/8fdbe7e96fd6476e3ea99.jpg) `My Name Is`  *Itachi Uchiha*
+`Hey There!` [🚶](https://telegra.ph/file/2ab0a4cfd263869e38d98.jpg) `My Name Is`  *Dio Brando*
 `I am an Anime Themed group management bot.
 Managed by XForce for Your Telegram Group , I specialize in managing anime and similar themed groups.
 You can find my list of available commands with! Hit` *🔐Commands*   
@@ -62,7 +62,7 @@ You can find my list of available commands with! Hit` *🔐Commands*
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD ITACHI TO YOUR GROUP ➕️",url="t.me/ItachiUchiha_XBot?startgroup=true"),
+            text="➕️ ADD ME TO YOUR GROUP ➕️",url="t.me/DioBrandoX_Bot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(
@@ -86,14 +86,14 @@ InlineKeyboardButton(
     ],
     [
         InlineKeyboardButton(
-                    text="Anime Chat", url="https://t.me/WallpaperRequest07"
+                    text="Anime Chat", url="https://t.me/AnimeChatGOC"
         ),
     ],
 ]
 
 
 HELP_STRINGS = """
-`Hey there! My Name Is` [Itachi]("https://telegra.ph/file/5f5b57c7a37c3cb9853f0.jpg") 
+`Hey there! My Name Is` [Dio]("https://telegra.ph/file/e4ed948393a4406d19157.jpg") 
 I'm a Ninja, I Will help admins manage their groups with Some Powerful Features! `Have a look at the following for an idea of some of the things I can help you with.`"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!

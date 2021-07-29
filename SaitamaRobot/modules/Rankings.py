@@ -509,7 +509,7 @@ def commandments(update: Update, context: CallbackContext):
 
 @run_async
 @whitelist_plus
-def powah(update: Update, context: CallbackContext):
+def paradise(update: Update, context: CallbackContext):
     bot = context.bot
     true_dev = list(set(DEV_USERS) - {OWNER_ID})
     reply = "<b>Stand Users⚡️:</b>\n"

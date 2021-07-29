@@ -509,10 +509,10 @@ def commandments(update: Update, context: CallbackContext):
 
 @run_async
 @whitelist_plus
-def paradise(update: Update, context: CallbackContext):
+def powah(update: Update, context: CallbackContext):
     bot = context.bot
     true_dev = list(set(DEV_USERS) - {OWNER_ID})
-    reply = "<b>🍁Shinobis with access to Chakra⚡️:</b>\n"
+    reply = "<b>Stand Users⚡️:</b>\n"
     for each_user in true_dev:
         user_id = int(each_user)
         try:

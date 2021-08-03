@@ -93,8 +93,7 @@ InlineKeyboardButton(
 
 
 HELP_STRINGS = """
-`Hey there! My Name Is` [Dio]("https://telegra.ph/file/e4ed948393a4406d19157.jpg") 
-I'm a Ninja, I Will help admins manage their groups with Some Powerful Features! `Have a look at the following for an idea of some of the things I can help you with.`"""
+`Hey there! My Name Is` [Dio]("https://telegra.ph/file/e4ed948393a4406d19157.jpg"), I Will help admins manage their groups with Some Powerful Features! `Have a look at the following for an idea of some of the things I can help you with.`"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paytm](#) or by contacting @XForceSupport\

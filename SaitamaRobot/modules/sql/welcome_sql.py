@@ -15,15 +15,15 @@ DEFAULT_WELCOME_MESSAGES = [
     "Ready player {first}",
     "So You're Approaching Me ?.",
     "Ore Wa Dio Brando Welcomes You.",
-    "{first} say Aschente to swear by the pledges.",  #No Game No Life
-    "{first} just joined. El Psy congroo!",  #Steins Gate
-    "Irasshaimase {first}!",  #weeabo shit
-    "Hi {first}, what is 1000-7?",  #tokyo ghoul
-    "Come. I don't want to destroy this place",  #hunter x hunter
-    "I... am... Whitebeard!...wait..wrong anime.",  #one Piece
-    "Hey {first}...have you ever heard these words?",  #BNHA
-    "Can't a guy get a little sleep around here?",  #Kamina Falls – Gurren Lagann
-    "It's time someone put you in your place, {first}.",  #Hellsing
+    "Muda Muda, It's {first} .",  #No Game No Life
+    "Wrrryyy It's {first}",  #Steins Gate
+    "Ore Wa Dio Brando Welcomes You",  #weeabo shit
+    "Hi {first}, Ore Wa Dio Brando Welcomes You",  #tokyo ghoul
+    "Muhahaha {first} Entered",  #hunter x hunter
+    "Ore Wa Dio Brando Welcomes You.",  #one Piece
+    "Oh? You're Approaching Me?",  #BNHA
+    "Oh? You're Approaching Me?",  #Kamina Falls – Gurren Lagann
+    "Oh? You're Approaching Me?, {first}.",  #Hellsing
     "Unit-01's reactivated..",  #Neon Genesis: Evangelion
     "Prepare for trouble...And make it double",  #Pokemon
     "Hey {first}, are You Challenging Me?",  #Shaggy
@@ -37,22 +37,6 @@ DEFAULT_WELCOME_MESSAGES = [
     "Kaizoku ou ni...nvm wrong anime.",  #op
     "{first} just joined! Gear.....second!",  #Op
     "Omae wa mou....shindeiru",
-    "Hey {first}, the leaf village lotus blooms twice!",  #Naruto stuff begins from here
-    "{first} Joined! Omote renge!",
-    "{first} joined!, Gate of Opening...open!",
-    "{first} joined!, Gate of Healing...open!",
-    "{first} joined!, Gate of Life...open!",
-    "{first} joined!, Gate of Pain...open!",
-    "{first} joined!, Gate of Limit...open!",
-    "{first} joined!, Gate of View...open!",
-    "{first} joined!, Gate of Shock...open!",
-    "{first} joined!, Gate of Death...open!",
-    "{first}! I, Madara! declare you the strongest",
-    "{first}, this time I'll lend you my power. ",  #Kyuubi to naruto
-    "{first}, welcome to the hidden leaf village!",  # Naruto thingies end here
-    "In the jungle, you must wait...until the dice read five or eight.",  #Jumanji stuff
-    "Dr.{first} Famed archeologist and international explorer,\nWelcome to Jumanji!\nJumanji's Fate is up to you now.",
-    "{first}, this will not be an easy mission - monkeys slow the expedition.",  #End of Jumanji stuff
 ]
 DEFAULT_GOODBYE_MESSAGES = [
     "{first} will be missed.",

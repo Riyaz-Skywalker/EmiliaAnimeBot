@@ -12,7 +12,7 @@ DEFAULT_GOODBYE = 'Nice knowing ya!'
 
 DEFAULT_WELCOME_MESSAGES = [
     "{first} is here!",  #Discord welcome messages copied
-    "Ready player {first}",
+    "Kono Dio Da",
     "So You're Approaching Me ?.",
     "Ore Wa Dio Brando Welcomes You.",
     "Muda Muda, It's {first} .",  #No Game No Life
@@ -24,19 +24,6 @@ DEFAULT_WELCOME_MESSAGES = [
     "Oh? You're Approaching Me?",  #BNHA
     "Oh? You're Approaching Me?",  #Kamina Falls – Gurren Lagann
     "Oh? You're Approaching Me?, {first}.",  #Hellsing
-    "Unit-01's reactivated..",  #Neon Genesis: Evangelion
-    "Prepare for trouble...And make it double",  #Pokemon
-    "Hey {first}, are You Challenging Me?",  #Shaggy
-    "Oh? You're Approaching Me?",  #jojo
-    "{first} just warped into the group!",
-    "I..it's..it's just {first}.",
-    "Sugoi, Dekai. {first} Joined!",
-    "{first}, do you know gods of death love apples?",  #Death Note owo
-    "I'll take a potato chip.... and eat it",  #Death Note owo
-    "Oshiete oshiete yo sono shikumi wo!",  #Tokyo Ghoul
-    "Kaizoku ou ni...nvm wrong anime.",  #op
-    "{first} just joined! Gear.....second!",  #Op
-    "Omae wa mou....shindeiru",
 ]
 DEFAULT_GOODBYE_MESSAGES = [
     "{first} will be missed.",

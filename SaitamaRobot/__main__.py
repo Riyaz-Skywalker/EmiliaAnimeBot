@@ -53,7 +53,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`Hey There!` [🚶](https://telegra.ph/file/2ab0a4cfd263869e38d98.jpg) `My Name Is`  *Dio Brando*
+`Hey There!` [🚶](https://telegra.ph/file/6b8594129be39704224b1.jpg) `My Name Is`  *Meliodas*
 `I am an Anime Themed group management bot.
 Managed by XForce for Your Telegram Group , I specialize in managing anime and similar themed groups.
 You can find my list of available commands with! Hit` *🔐Commands*   
@@ -62,7 +62,7 @@ You can find my list of available commands with! Hit` *🔐Commands*
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD ME TO YOUR GROUP ➕️",url="t.me/DioBrandoX_Bot?startgroup=true"),
+            text="➕️ ADD ME TO YOUR GROUP ➕️",url="t.me/Meliodas_SOWXBot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(
@@ -93,7 +93,7 @@ InlineKeyboardButton(
 
 
 HELP_STRINGS = """
-`Hey there! My Name Is` [Dio]("https://telegra.ph/file/e4ed948393a4406d19157.jpg"), I Will help admins manage their groups with Some Powerful Features! `Have a look at the following for an idea of some of the things I can help you with.`"""
+`Hey there! My Name Is` [Meliodas]("https://telegra.ph/file/6b8594129be39704224b1.jpg"), I Will help admins manage their groups with Some Powerful Features! `Have a look at the following for an idea of some of the things I can help you with.`"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paytm](#) or by contacting @XForceSupport\
